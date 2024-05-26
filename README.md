@@ -1,1 +1,2 @@
-# 16_AI_Project_M18_Fintech_Student_Loan_Decision
+# sms_spam_detector
+Used the AI Skills to build the model to present the interface for SMS Spam Detecting and Alert. 
